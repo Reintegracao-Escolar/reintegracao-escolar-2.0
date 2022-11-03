@@ -15,6 +15,15 @@
     color: #fff;
 }
 
-#home {
-    margin-top: -15px;
+.conheca {
+    background-color: #dadada;
+}
+
+.btn.btn-primary {
+    background-color: #25a18e !important;
+    border: none;
+}
+
+.btn.btn-primary:hover {
+    background-color: #1c796b !important;
 }

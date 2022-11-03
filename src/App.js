@@ -6,11 +6,13 @@ import Cursos from "./pages/Cursos";
 import Contato from "./pages/Contato";
 import Login from "./pages/Login";
 import Cadastro from "./pages/Cadastro";
-
+import Menu from "./components/Menu";
+import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Container>
+    <Container fluid>
+      <Menu />
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -21,6 +23,7 @@ function App() {
           <Route path="/cadastro" element={<Cadastro />} />
         </Routes>
       </BrowserRouter>
+      <Footer />
     </Container>
   );
 }

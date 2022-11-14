@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Reintegração Escolar
+Tema do projeto: Falta de interesse pela escola
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Número do squad: 032
 
-## Available Scripts
+##
 
-In the project directory, you can run:
+O projeto foi feito para que possamos ajudar alunos que perderam o interesse em estudar por algum motivo, trazendo assim uma forma divertida e diferente de estudar através de um site gamificado.
+O R.E. (Reintegração Escolar) traz aulas interativas, aulas dinâmicas, pensando em melhorar a educação através de tecnologias que dão mais autonomia aos alunos, melhorando a comunicação entre estudantes e professores e aproximando os aprendizes da turma.
 
-### `npm start`
+# Paleta de Cores
+![image](https://user-images.githubusercontent.com/50535257/179427056-e7328f2a-4e11-4bf9-b40b-de076364d647.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Prints da página
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Home
 
-### `npm test`
+![image](https://user-images.githubusercontent.com/50535257/179624291-6158b43c-1bb6-40a1-879a-82e1d6814889.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+By: Daniel Souza
 
-### `npm run build`
+## Sobre
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/50535257/179624260-df2d6695-42f8-44d2-bd61-8188efacc522.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Design by: Daniel Souza
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Texto by: Caio Cesar
 
-### `npm run eject`
+## Cursos
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://user-images.githubusercontent.com/50535257/179624351-d1b079e4-1fa0-4c9c-9810-d22189e9f7d0.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://user-images.githubusercontent.com/50535257/179624394-3f7fae47-5da1-47f2-baed-cfd9dd397d23.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+By: Wilberson Roberto
 
-## Learn More
+## Contato
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![image](https://user-images.githubusercontent.com/109298084/179634930-eff09852-0b52-4404-99b5-b374718dafda.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+By: Valeria Gomes
 
-### Code Splitting
+By: Carlos Junior
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Login e Cadastro
 
-### Analyzing the Bundle Size
+![image](https://user-images.githubusercontent.com/50535257/179608485-88576db6-bec1-4cfc-b372-35fbe1b87bd5.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![image](https://user-images.githubusercontent.com/109298084/179634987-30dbe1c6-8a4b-45f5-b3d2-2a03829f0590.png)
 
-### Making a Progressive Web App
+![image](https://user-images.githubusercontent.com/109298084/179635054-777eb73a-399a-474e-8e46-9ed12c266c13.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+By: Valeria Gomes
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+By: Carlos Junior

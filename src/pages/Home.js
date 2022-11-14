@@ -16,14 +16,15 @@ export default function Home() {
             </p>
           </Col>
           <Col xs={4}>
-            <img src={ImgTopoHome} className='img-fluid' />
+            <img src={ImgTopoHome} className='img-fluid d-none d-md-block' />
           </Col>
         </Row>
       </section>
+      
       <section className='conheca'>
         <Row className='align-items-center justify-content-md-center'>
           <Col xs={4}>
-          <img src={Conheca} className='img-fluid' />
+          <img src={Conheca} className='img-fluid d-none d-md-block' />
           </Col>
           <Col xs={4}>
           <h2>Conheça o projeto</h2>

@@ -1,0 +1,42 @@
+.paletaCores {
+    color: #bf1a2f;
+    color: #001d3d;
+    color: #25a18e;
+    color: #000814;
+    color: #001d3d;
+    color: #003566;
+    color: #121212;
+    color: #dadada;
+    color: #ffa500;
+}
+
+.login {
+    background-color: #25a18e;
+}
+
+.formLogin {
+    background-color: #001d3d;
+    padding: 20px;
+    border-radius: 20px;
+    border: 10px solid #dadada;
+    margin: 40px;
+}
+
+.formLogin h5 {
+    margin-bottom: 20px;
+}
+.formLogin a {
+    color: #dadada;
+}
+
+.formLogin a:hover {
+    color: #bf1a2f;
+}
+
+.btn.btn-primary {
+    background-color: #bf1a2f !important;
+}
+
+.btn.btn-primary:hover {
+    background-color: #9e0318 !important;
+}

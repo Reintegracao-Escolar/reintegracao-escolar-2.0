@@ -1,0 +1,18 @@
+.paletaCores {
+    color: #bf1a2f;
+    color: #001d3d;
+    color: #25a18e;
+    color: #000814;
+    color: #001d3d;
+    color: #003566;
+    color: #121212;
+    color: #dadada;
+    color: #ffa500;
+}
+
+#cadastro {
+    background-color: #001d3d;
+    padding: 3% 18%;
+    margin-top: -12px;
+    margin-bottom: -12px;
+}

@@ -1,9 +1,13 @@
 import React from 'react'
+import { Button, Col, Container, Row } from 'react-bootstrap'
+import '../css/Cursos.css'
 
 export default function Cursos() {
   return (
-    <main>
-      <h1>Cursos</h1>
-    </main>
+    <Container fluid id='cursos'>
+        <section className=''>
+        
+        </section>
+      </Container>
   )
 }

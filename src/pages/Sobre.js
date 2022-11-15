@@ -14,7 +14,7 @@ export default function Sobre() {
             <Col xs={4}>
               <img src={AlunosImg} className='img-fluid d-none d-md-block' />
             </Col>
-            <Col xs={4}>
+            <Col md={4}>
               <p>
               A plataforma tem como principal intuito complementar o aprendizado escolar de maneira tecnológica baseada nas vivencias cotidianas em sala de aula dos alunos de cada faixa etária. Com o objetivo de resgatar e estimular o interesse aos estudos, a plataforma REINTEGRAÇÃO ESCOLAR disponibiliza conteúdo gamificado onde o usuário se diverte e aprende ao mesmo tempo, através de jogos educativos que promovem desafios em busca de metas tornando o aprendizado mais dinâmico. A gamificação na educação é uma maneira de desenvolver a autoconfiança colocando o aluno no centro do processo de aprendizagem.
               </p>
@@ -24,7 +24,7 @@ export default function Sobre() {
         <section className=''>
         <h2 className='text-center mt-4'>Benefícios da gamificação</h2>
           <Row className='align-items-center justify-content-md-center'>
-            <Col xs={4}>
+            <Col md={4}>
             <ul>
                 <li>
                 Torna o ensino mais atrativo e motivador trazendo interatividade para a sala de aula

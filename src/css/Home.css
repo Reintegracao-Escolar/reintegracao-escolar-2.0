@@ -13,10 +13,12 @@
 .topo {
     background-color: #001d3d;
     color: #fff;
+    padding: 20px;
 }
 
 .conheca {
     background-color: #dadada;
+    padding: 20px;
 }
 
 #home .btn.btn-primary {

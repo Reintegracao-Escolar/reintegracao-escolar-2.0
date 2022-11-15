@@ -44,7 +44,7 @@ export default function Home() {
           <Col xs={4}>
             <h2>Cursos</h2>
             <p>
-            Conheça como funciona a nossa forma de ensino e como isso pode mudar sua forma e aprender.
+              Conheça como funciona a nossa forma de ensino e como isso pode mudar sua forma e aprender.
             </p>
             <Button href='/cursos'>Veja mais</Button>
           </Col>
@@ -62,8 +62,8 @@ export default function Home() {
           <Col xs={4}>
             <h2>Entre em contato</h2>
             <p>
-            Tire suas dúvidas sobre o projeto,
-nos mandando uma mensagem.
+              Tire suas dúvidas sobre o projeto,
+              nos mandando uma mensagem.
             </p>
             <Button href='/contato'>Envie sua mensagem</Button>
           </Col>

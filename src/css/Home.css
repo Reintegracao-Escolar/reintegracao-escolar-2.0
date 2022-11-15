@@ -19,11 +19,11 @@
     background-color: #dadada;
 }
 
-.btn.btn-primary {
+#home .btn.btn-primary {
     background-color: #25a18e !important;
     border: none;
 }
 
-.btn.btn-primary:hover {
+#home .btn.btn-primary:hover {
     background-color: #1c796b !important;
 }

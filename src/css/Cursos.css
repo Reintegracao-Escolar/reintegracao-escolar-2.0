@@ -9,3 +9,77 @@
     color: #dadada;
     color: #ffa500;
 }
+
+#cursos {
+    background-image: url(../img/fundo-cursos.jpg);
+    background-attachment: fixed;
+    margin-top: -12px;
+    margin-bottom: -12px;
+}
+
+.carouselCursos {
+    padding: 20% 0;
+}
+
+.carouselCursos h2 {
+    color: #dadada;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.nav-link.botao {
+    text-align: center;
+    color: #dadada;
+    border: 1px solid #dadada;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.nav-link.botao:hover {
+    background-color: #dadada;
+    color: #121212;
+}
+
+#corpo01 {
+    background-color: #dadada;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+#corpo02 img {
+    padding: 20px;
+}
+
+.lateralCursos {
+    background-color: #001d3d;
+    padding: 5% 20px;
+    border-radius: 20px;
+}
+
+#corpo02 h3 {
+    margin-bottom: 20px;
+}
+
+#corpo02 h4 {
+    color: #ffa500;
+}
+
+#corpo02 p {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.fonte {
+    margin-top: 20px;
+}
+
+.fonte a {
+    text-decoration: none;
+    color: #25a18e;
+}
+
+.fonte a:hover {
+    color: #fff;
+}
